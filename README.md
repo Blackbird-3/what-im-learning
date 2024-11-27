@@ -6,11 +6,7 @@ This repository contains resources, topics, and subtopics related to my learning
 
 ## Topics
 
-### [RAG](#topic-1-RAG)
-- **Subtopic**: Retrieval Augment Generation using LLMs  
-  - [Resource 1](#): [RAG from scratch](https://www.youtube.com/watch?v=sVcwVQRHIc8&t=512s)
-  - [Resource 2](#): [Full Stack implementation (Medium)](https://medium.com/@nelsonlin0321/full-stack-implementation-to-build-an-rag-retrieval-augmented-generation-application-68611a6ffec6)
-  - [Resource 3](#): Model APIs -- [Hugging Face Llama](https://huggingface.co/meta-llama/Llama-3.1-8B) [Groq](https://console.groq.com/docs/libraries?_gl=1*2k7snb*_gcl_au*MTMxODQyMjcyMy4xNzI5Mjc2MzIw*_ga*MjA0ODQ5NjM4NS4xNzI5Mjc2MzIw*_ga_4TD0X2GEZG*MTcyOTY5MDYxOS4zLjEuMTcyOTY5MTQ5NC4zMS4wLjA.) 
+
 
 ### [React](#topic-2-another-topic-title)
 - **Subtopic**: Description or key concepts
@@ -34,6 +30,12 @@ This repository contains resources, topics, and subtopics related to my learning
 ## Archive
 
 This section contains previous topics, organized for easy reference.
+
+### [RAG](#topic-1-RAG)
+- **Subtopic**: Retrieval Augment Generation using LLMs  
+  - [Resource 1](#): [RAG from scratch](https://www.youtube.com/watch?v=sVcwVQRHIc8&t=512s)
+  - [Resource 2](#): [Full Stack implementation (Medium)](https://medium.com/@nelsonlin0321/full-stack-implementation-to-build-an-rag-retrieval-augmented-generation-application-68611a6ffec6)
+  - [Resource 3](#): Model APIs -- [Hugging Face Llama](https://huggingface.co/meta-llama/Llama-3.1-8B) [Groq](https://console.groq.com/docs/libraries?_gl=1*2k7snb*_gcl_au*MTMxODQyMjcyMy4xNzI5Mjc2MzIw*_ga*MjA0ODQ5NjM4NS4xNzI5Mjc2MzIw*_ga_4TD0X2GEZG*MTcyOTY5MDYxOS4zLjEuMTcyOTY5MTQ5NC4zMS4wLjA.) 
 
 ### [DSA](#archived-topic-1)
 - **Subtopic**: Put aside for now will comeback later 
