@@ -22,6 +22,7 @@ This repository contains resources, topics, and subtopics related to my learning
   - [Resource 3](#): [Resources](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main)
   - [Resource 4](#): [Stanford LLMs Lecture](https://www.youtube.com/watch?v=9vM4p9NN0Ts) -- [Slides](https://drive.google.com/file/d/1B46VFrqFAPAEj3kaCrBAtQqeh2_Ztawl/view?pli=1)
   - [Resource 5](#): [Sequence Models Andrew NG](https://www.youtube.com/watch?v=S7oA5C43Rbc)
+  - [Resource 6](#): [Agentic AI Roadmap](https://github.com/krishnaik06/Roadmap-To-Learn-Agentic-AI/tree/main?tab=readme-ov-file)
  
   
 
