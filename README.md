@@ -16,7 +16,11 @@ This repository contains resources, topics, and subtopics related to my learning
   - [Resource 4](#): [100xDevs Resources](https://projects.100xdevs.com/)
  
 ### [Data Science](#topic-2-another-topic-title)
-- **Subtopic**: Description or key concepts  
+- **Subtopic**: Description or key concepts
+
+  - [Dc1](https://app.datacamp.com/learn/courses/developing-llm-applications-with-langchain)
+  - [Dc2](https://app.datacamp.com/learn/skill-tracks/developing-applications-with-langchain)
+  - [Dc3](https://app.datacamp.com/learn/skill-tracks/ai-fundamentals)
   - [Resource 1](#): [Deep Learning one shot](https://www.youtube.com/watch?v=d2kxUVwWWwU)
   - [Resource 2](#): [Machine Learning one shot](https://www.youtube.com/watch?v=JxgmHe2NyeY)
   - [Resource 3](#): [Resources](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main)
